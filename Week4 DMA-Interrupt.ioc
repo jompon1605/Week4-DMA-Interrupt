@@ -203,4 +203,3 @@ RCC.APB1Freq_Value=42000000
 ProjectManager.DeviceId=STM32F411RETx
 ProjectManager.LibraryCopy=1
 PA3.GPIO_Label=USART_RX
-isbadioc=false
